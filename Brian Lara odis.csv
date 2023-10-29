@@ -1,0 +1,39 @@
+,Match No,Pos,Venue City,Ground,Opposition,Pitch,Avg_runs_last_5_match,4s_last_5_match,6s_last_5_match,Score_last_5_match,Runs_binned,runs_category
+0,ODI # 678,4,London,Lord's,England,Turning,41,15,3,209,22-44,low
+1,ODI # 681,4,Sharjah,Sharjah,India,Hard,33,16,6,166,44-66,medium
+2,ODI # 692,4,Perth,Perth,India,Grass,33,16,6,166,0-22,low
+3,ODI # 696,4,Adelaide,Adelaide,India,Grass,33,16,6,166,22-44,low
+4,ODI # 699,3,Melbourne,Melbourne,Australia,Grass,21,7,2,108,0-22,low
+5,ODI # 703,3,Brisbane,Brisbane,Australia,Bouncy,21,7,2,108,66-88,high
+6,ODI # 717,2,Melbourne,Melbourne,Pakistan,Grass,41,0,0,205,66-88,high
+7,ODI # 724,2,Brisbane,Brisbane,Zimbabwe,Dusty,19,8,0,96,66-88,high
+8,ODI # 737,2,Wellington,Wellington,India,Dry,19,1,1,99,22-44,medium
+9,ODI # 767,4,Perth,Perth,Pakistan,Grass,52,0,0,264,44-66,medium
+10,ODI # 771,2,Sydney,Sydney,Australia,Grass,38,1,1,194,0-22,very low
+11,ODI # 780,1,Melbourne,Melbourne,Australia,Grass,49,1,1,246,66-88,high
+12,ODI # 788,1,Brisbane,Brisbane,Pakistan,Dead,35,0,0,175,0-22,low
+13,ODI # 792,1,Sydney,Sydney,Australia,Grass,36,0,0,184,66-88,high
+14,ODI # 801,2,Gqeberha,Gqeberha,South Africa,Damp,38,2,2,193,0-22,low
+15,ODI # 804,4,Cape Town,Cape Town,South Africa,Hard,39,2,2,198,0-22,low
+16,ODI # 807,2,Bloemfontein,Bloemfontein,South Africa,Green,51,3,3,259,88-111,very high
+17,ODI # 810,2,Johannesburg,Johannesburg,Pakistan,Dry,42,1,1,213,44-66,medium
+18,ODI # 842,1,Sharjah,Sharjah,Pakistan,Dusty,10,0,0,53,0-22,low
+19,ODI # 851,1,Ahmedabad,Ahmedabad,India,Bouncy,21,1,1,108,22-44,low
+20,ODI # 858,1,Kolkata,Eden Gardens,India,Dusty,22,1,1,112,22-44,medium
+21,ODI # 880,2,Bridgetown,Bridgetown,England,Turning,41,15,3,209,0-22,very low
+22,ODI # 936,3,Chennai,Chennai,India,Green,29,0,0,146,66-88,high
+23,ODI # 972,3,Auckland,Auckland,New Zealand,Flat,32,17,2,163,44-66,medium
+24,ODI # 985,3,Bridgetown,Bridgetown,Australia,Bouncy,53,0,0,266,44-66,medium
+25,ODI # 1001,3,London,The Oval,England,Hard,40,1,1,204,22-44,medium
+26,ODI # 1006,3,Sharjah,Sharjah,Sri Lanka,Dusty,56,0,0,284,0-22,low
+27,ODI # 1009,3,Sharjah,Sharjah,Pakistan,Flat,50,3,3,254,44-66,medium
+28,ODI # 1012,3,Sharjah,Sharjah,Sri Lanka,Green,58,4,4,290,0-22,very low
+29,ODI # 1147,3,Melbourne,Melbourne,Australia,Grass,62,3,3,311,0-22,very low
+30,ODI # 1154,4,Adelaide,Adelaide,Pakistan,Grass,54,3,3,271,22-44,medium
+31,ODI # 1159,3,Brisbane,Brisbane,Australia,Dry,47,2,2,238,88-111,very high
+32,ODI # 1162,3,Perth,Perth,Australia,Grass,53,5,5,268,88-111,very high
+33,ODI # 1166,3,Melbourne,Melbourne,Pakistan,Grass,40,0,0,201,0-22,low
+34,ODI # 1261,3,Sharjah,Sharjah,England,Dead,27,1,1,136,0-22,very low
+35,ODI # 1266,3,Sharjah,Sharjah,England,Turning,24,1,1,122,0-22,very low
+36,ODI # 1301,3,Bridgetown,Bridgetown,England,Damp,29,3,3,147,22-44,low
+37,ODI # 1395,3,Durban,Durban,South Africa,Dead,22,2,2,114,22-44,medium
